@@ -18,7 +18,7 @@ public class DatePickerMenuPage extends WidgetsPage {
         click(dayValue(day));
     }
 
-    public void clickSelect() { // clicks on the selector
+    public void clickSelectDate() { // clicks on the selector
         click(selectDateField);
     }
 
